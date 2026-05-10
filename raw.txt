@@ -1,0 +1,30 @@
+Scanning 10 companies via API (22 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-05-10
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     10
+Total jobs found:      1443
+Filtered by title:     1352 removed
+Duplicates:            81 skipped
+New offers added:      10
+
+Errors (1):
+  ✗ Vinted: HTTP 404
+
+New offers:
+  + Mollie | Platform Engineer II | Lisbon
+  + Mollie | Senior Engineering Manager - Platform Engineering | Lisbon
+  + GetYourGuide | Associate Software Engineer | Berlin
+  + Contentful | Field Enablement Program Manager | San Francisco, California, United States
+  + Contentful | Fullstack Software Engineer (f/m/d) | Berlin, Berlin, Germany
+  + Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d) | Berlin, Berlin, Germany
+  + Contentful | Senior Technical Enablement Architect | Portland, Oregon, United States
+  + SumUp | Android Engineer - KMP | Warsaw, Poland
+  + SumUp | Senior Android Engineer - Mobile Platform | London, England, United Kingdom
+  + SumUp | Senior Software Engineer, Android - KMP | Paris, Paris, France
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4

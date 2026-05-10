@@ -1,0 +1,16 @@
+Tailor this CV for European recruiters.
+
+Prioritize:
+- BLE
+- embedded/mobile integration
+- iOS/Android interoperability
+- USB communication
+- hardware debugging
+- production engineering
+
+Avoid:
+- exaggerated marketing language
+- excessive buzzwords
+- US-style resume fluff
+
+Keep ATS optimization natural.

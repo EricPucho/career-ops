@@ -1,0 +1,39 @@
+name: Eric
+
+location:
+  country: Luxembourg
+  cities:
+    - Luxembourg City
+    - Esch-sur-Alzette
+    - Remote Europe
+
+languages:
+  - English
+  - French
+
+roles:
+  - iOS Engineer
+  - Embedded Mobile Engineer
+  - Bluetooth Engineer
+  - IoT Engineer
+  - Mobile Systems Engineer
+
+skills:
+  - Swift
+  - Kotlin
+  - BLE
+  - CoreBluetooth
+  - USB
+  - DriverKit
+  - FTDI
+  - Flutter
+  - Android USB Host
+  - NFC
+  - Embedded communication
+
+regions:
+  - Luxembourg
+  - Belgium
+  - Germany
+  - Netherlands
+  - Remote Europe
