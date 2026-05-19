@@ -70,3 +70,35 @@
   Country: United States
   Remote/hybrid/on-site: Hybrid
   Language requirement: English
+# Tue May 19 07:26:05 UTC 2026
+- **Job title:** Android Engineer - Investments & Savings
+  - **Company:** N26
+  - **Location:** Berlin, Germany / Barcelona, Spain
+  - **URL:** https://n26.com/en-eu/careers/positions/7748644?gh_jid=7748644
+  - **Country:** Germany / Spain
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
+
+- **Job title:** Supervising Studios Production Manager
+  - **Company:** Spotify
+  - **Location:** Los Angeles, CA
+  - **URL:** https://jobs.lever.co/spotify/a6061214-bdce-4901-8d50-1501f4b51862
+  - **Country:** United States
+  - **Remote/hybrid/on-site:** On-site
+  - **Language requirement:** English
+
+- **Job title:** Senior Product Engineer - iOS/Swift
+  - **Company:** Qonto
+  - **Location:** Barcelona, Spain
+  - **URL:** https://jobs.lever.co/qonto/25b8124b-5075-4f25-b0c4-91e83e39227d
+  - **Country:** Spain
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
+
+- **Job title:** Senior Software Engineer - Machine Learning (f/m/d)
+  - **Company:** Contentful
+  - **Location:** Dublin, Ireland
+  - **URL:** https://job-boards.greenhouse.io/contentful/jobs/7557680
+  - **Country:** Ireland
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
