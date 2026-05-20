@@ -102,3 +102,123 @@
   - **Country:** Ireland
   - **Remote/hybrid/on-site:** Hybrid
   - **Language requirement:** English
+# Wed May 20 08:49:46 UTC 2026
+- **Job title:** Head of Performance Media
+  - **Company:** GetYourGuide
+  - **Location:** Berlin
+  - **URL:** https://getyourguide.careers/jobs/7771663?gh_jid=7771663
+  - **Country:** Germany
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Senior Business Operations Manager – AM Operations Planning & Performance
+  - **Company:** GetYourGuide
+  - **Location:** Berlin
+  - **URL:** https://getyourguide.careers/jobs/7867343?gh_jid=7867343
+  - **Country:** Germany
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Senior Manager, Performance Management
+  - **Company:** GetYourGuide
+  - **Location:** Berlin
+  - **URL:** https://getyourguide.careers/jobs/7530703?gh_jid=7530703
+  - **Country:** Germany
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Senior RFP Program Manager
+  - **Company:** Contentful
+  - **Location:** Denver, Colorado
+  - **URL:** https://job-boards.greenhouse.io/contentful/jobs/7759724
+  - **Country:** United States
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Android Engineer
+  - **Company:** SumUp
+  - **Location:** Berlin
+  - **URL:** https://sumup.com/careers/positions/8547742002?gh_jid=8547742002
+  - **Country:** Germany
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Field Sales Executive – POS & Payments
+  - **Company:** SumUp
+  - **Location:** Tonbridge, England
+  - **URL:** https://sumup.com/careers/positions/8504432002?gh_jid=8504432002
+  - **Country:** United Kingdom
+  - **Remote/hybrid/on-site:** On-site (field)
+  - **Language:** English
+
+- **Job title:** Director of X-Channel – Performance Marketing
+  - **Company:** HelloFresh
+  - **Location:** Berlin
+  - **URL:** https://careers.hellofresh.com/global/en/job/7192931?gh_jid=7192931
+  - **Country:** Germany
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Head of Analytics & Performance (M/F/X)
+  - **Company:** HelloFresh
+  - **Location:** Paris
+  - **URL:** https://careers.hellofresh.com/global/en/job/7830944?gh_jid=7830944
+  - **Country:** France
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Post Production Manager Mid-level (All Genders)
+  - **Company:** HelloFresh
+  - **Location:** Berlin
+  - **URL:** https://careers.hellofresh.com/global/en/job/7904276?gh_jid=7904276
+  - **Country:** Germany
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Senior Creative Strategy Manager (Performance Marketing)
+  - **Company:** HelloFresh
+  - **Location:** London
+  - **URL:** https://careers.hellofresh.com/global/en/job/7920786?gh_jid=7920786
+  - **Country:** United Kingdom
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Senior Manager of Performance Creative Strategy
+  - **Company:** HelloFresh
+  - **Location:** London
+  - **URL:** https://careers.hellofresh.com/global/en/job/7917927?gh_jid=7917927
+  - **Country:** United Kingdom
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Data Scientist – Growth Analytics (Performance Marketing)
+  - **Company:** Spotify
+  - **Location:** New York, NY
+  - **URL:** https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199
+  - **Country:** United States
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Data Scientist II – Performance Optimization Squad
+  - **Company:** Spotify
+  - **Location:** Stockholm
+  - **URL:** https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050
+  - **Country:** Sweden
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Machine Learning Engineering Manager – Surfaces Music
+  - **Company:** Spotify
+  - **Location:** New York, NY
+  - **URL:** https://jobs.lever.co/spotify/5277f56c-0e14-4593-921c-5460c46d6a35
+  - **Country:** United States
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
+
+- **Job title:** Senior Backend Engineer – Surfaces/PZN
+  - **Company:** Spotify
+  - **Location:** New York, NY
+  - **URL:** https://jobs.lever.co/spotify/69bf7240-0dfe-43df-a83b-0af1f5b3a892
+  - **Country:** United States
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language:** English
