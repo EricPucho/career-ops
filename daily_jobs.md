@@ -222,3 +222,43 @@
   - **Country:** United States
   - **Remote/hybrid/on-site:** Hybrid
   - **Language:** English
+# Fri May 22 12:43:28 UTC 2026
+- **Job title:** Senior Embedded Machine Learning Engineer (C++)
+  - **Company:** Scandit
+  - **Location:** Tampere
+  - **URL:** https://www.scandit.com/careers/job-description/?gh_jid=7951108
+  - **Country:** Finland
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
+
+- **Job title:** Senior Product Manager, Connectivity
+  - **Company:** GetYourGuide
+  - **Location:** Berlin
+  - **URL:** https://getyourguide.careers/jobs/7552392?gh_jid=7552392
+  - **Country:** Germany
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
+
+- **Job title:** Senior UX Manager (Payments, Checkout & Post-Booking)
+  - **Company:** GetYourGuide
+  - **Location:** Zurich
+  - **URL:** https://getyourguide.careers/jobs/7920675?gh_jid=7920675
+  - **Country:** Switzerland
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
+
+- **Job title:** Field Sales Executive – POS & Payments
+  - **Company:** SumUp
+  - **Location:** London
+  - **URL:** https://sumup.com/careers/positions/8219305002?gh_jid=8219305002
+  - **Country:** United Kingdom
+  - **Remote/hybrid/on-site:** On-site (field)
+  - **Language requirement:** English
+
+- **Job title:** Product Specialist Hardware
+  - **Company:** SumUp
+  - **Location:** Barcelona
+  - **URL:** https://sumup.com/careers/positions/8534643002?gh_jid=8534643002
+  - **Country:** Spain
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
