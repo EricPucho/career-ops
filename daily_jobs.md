@@ -262,3 +262,19 @@
   - **Country:** Spain
   - **Remote/hybrid/on-site:** Hybrid
   - **Language requirement:** English
+# Tue May 26 08:34:37 UTC 2026
+- **Job title:** Field Sales Executive – POS & Payments
+  - **Company:** SumUp
+  - **Location:** Oxford, England
+  - **URL:** https://sumup.com/careers/positions/8219305002?gh_jid=8219305002
+  - **Country:** United Kingdom
+  - **Remote/hybrid/on-site:** On-site (field sales)
+  - **Language requirement:** English
+
+- **Job title:** Manager, Cost Performance
+  - **Company:** HelloFresh
+  - **Location:** Mississauga, Ontario
+  - **URL:** https://careers.hellofresh.com/global/en/job/7904276?gh_jid=7904276
+  - **Country:** Canada
+  - **Remote/hybrid/on-site:** Hybrid
+  - **Language requirement:** English
