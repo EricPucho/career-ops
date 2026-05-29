@@ -278,3 +278,35 @@
   - **Country:** Canada
   - **Remote/hybrid/on-site:** Hybrid
   - **Language requirement:** English
+# Fri May 29 07:55:13 UTC 2026
+- **Job title:** Head of Supplier Enablement
+  **Company:** GetYourGuide
+  **Location:** Berlin
+  **URL:** https://getyourguide.careers/jobs/7938858?gh_jid=7938858
+  **Country:** Germany
+  **Remote/Hybrid/On-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Field Sales Executive – POS & Payments
+  **Company:** SumUp
+  **Location:** Cardiff, Wales
+  **URL:** https://sumup.com/careers/positions/8539583002?gh_jid=8539583002
+  **Country:** United Kingdom
+  **Remote/Hybrid/On-site:** On-site (field)
+  **Language:** English
+
+- **Job title:** Senior iOS Engineer - SuperApp
+  **Company:** SumUp
+  **Location:** Berlin
+  **URL:** https://sumup.com/careers/positions/8529499002?gh_jid=8529499002
+  **Country:** Germany
+  **Remote/Hybrid/On-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Senior Software Engineer
+  **Company:** HelloFresh
+  **Location:** Warszawa, Masovian Voivodeship
+  **URL:** https://careers.hellofresh.com/global/en/job/7921474?gh_jid=7921474
+  **Country:** Poland
+  **Remote/Hybrid/On-site:** Hybrid
+  **Language:** English
