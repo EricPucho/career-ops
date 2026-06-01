@@ -310,3 +310,27 @@
   **Country:** Poland
   **Remote/Hybrid/On-site:** Hybrid
   **Language:** English
+# Mon Jun  1 13:38:11 UTC 2026
+- **Job title:** Field Sales Executive – POS & Payments
+  - **Company:** SumUp
+  - **Location:** Swansea, Wales
+  - **URL:** https://sumup.com/careers/positions/8219305002?gh_jid=8219305002
+  - **Country:** United Kingdom
+  - **Mode:** On-site (field)
+  - **Language:** English
+
+- **Job title:** Marketing Designer – Performance Marketing (12-month fixed-term contract)
+  - **Company:** SumUp
+  - **Location:** Berlin, Germany / Paris, France
+  - **URL:** https://sumup.com/careers/positions/8559523002?gh_jid=8559523002
+  - **Country:** Germany / France
+  - **Mode:** Hybrid
+  - **Language:** English
+
+- **Job title:** Growth Performance Analyst Apprentice
+  - **Company:** Qonto
+  - **Location:** Paris
+  - **URL:** https://jobs.lever.co/qonto/30d94c83-8e96-444e-9d4f-bb739c95eb31
+  - **Country:** France
+  - **Mode:** Hybrid
+  - **Language:** French
