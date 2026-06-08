@@ -334,3 +334,83 @@
   - **Country:** France
   - **Mode:** Hybrid
   - **Language:** French
+# Mon Jun  8 14:07:09 UTC 2026
+- Senior Software Engineer, GraphQL - API Platform
+- GetYourGuide
+- Berlin
+- https://getyourguide.careers/jobs/6986390?gh_jid=6986390
+- Germany
+- Hybrid
+- English
+
+- Agent Commercial Terrain - Indépendant (Freelance) - Grenoble
+- SumUp
+- Grenoble, Isère
+- https://sumup.com/careers/positions/8013031002?gh_jid=8013031002
+- France
+- On-site
+- French
+
+- Backend Engineer - POS
+- SumUp
+- Berlin
+- https://sumup.com/careers/positions/8427119002?gh_jid=8427119002
+- Germany
+- Hybrid
+- English
+
+- Business Development Manager – Payments & POS
+- SumUp
+- Edinburgh, Scotland
+- https://sumup.com/careers/positions/8518822002?gh_jid=8518822002
+- United Kingdom
+- Hybrid
+- English
+
+- Executivo(a) de Vendas l São José dos Campos - SP
+- SumUp
+- São José dos Campos, São Paulo
+- https://sumup.com/careers/positions/8573136002?gh_jid=8573136002
+- Brazil
+- On-site
+- Portuguese
+
+- Field Sales Executive – POS & Payments
+- SumUp
+- Cambridge, England
+- https://sumup.com/careers/positions/8554611002?gh_jid=8554611002
+- United Kingdom
+- On-site
+- English
+
+- Senior Platform Engineer - Contact Centre
+- SumUp
+- Berlin
+- https://sumup.com/careers/positions/8539636002?gh_jid=8539636002
+- Germany
+- Hybrid
+- English
+
+- Spontaneous Application - Product Engineering (Backend / Web / Mobile)
+- Qonto
+- Paris
+- https://jobs.lever.co/qonto/49b6e7a1-e687-48b8-b00d-ebf2c5b74b81
+- France
+- Hybrid
+- English
+
+- Customer Care Specialist - Blended Campaign - Project based
+- HelloFresh
+- Manila
+- https://careers.hellofresh.com/global/en/job/7978117?gh_jid=7978117
+- Philippines
+- On-site
+- English
+
+- [HELLOCONNECT] Team Leader - Blended Customer Care
+- HelloFresh
+- Manila
+- https://careers.hellofresh.com/global/en/job/7984232?gh_jid=7984232
+- Philippines
+- On-site
+- English
