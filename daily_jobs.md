@@ -414,3 +414,11 @@
 - Philippines
 - On-site
 - English
+# Wed Jun 10 08:33:25 UTC 2026
+- **Data Engineer - Platform Engineering** — N26 — Berlin — https://n26.com/en-eu/careers/positions/7857802?gh_jid=7857802 — Germany — Hybrid — English
+- **Lead Software Engineer (ServiceNow) - RegTech** — N26 — Berlin — https://n26.com/en-eu/careers/positions/7992499?gh_jid=7992499 — Germany — Hybrid — English
+- **Software Engineer (ServiceNow) - RegTech** — N26 — Berlin — https://n26.com/en-eu/careers/positions/7988525?gh_jid=7988525 — Germany — Hybrid — English
+- **Connectivity Partner Business Manager** — GetYourGuide — Berlin — https://getyourguide.careers/jobs/7979056?gh_jid=7979056 — Germany — Hybrid — English
+- **Connectivity Partner Program Manager** — GetYourGuide — Berlin — https://getyourguide.careers/jobs/7976582?gh_jid=7976582 — Germany — Hybrid — English
+- **Business Development Manager – Payments & POS** — SumUp — Manchester — https://sumup.com/careers/positions/7789384002?gh_jid=7789384002 — United Kingdom — Hybrid — English
+- **Senior Cost Performance Analyst** — HelloFresh — Toronto — https://careers.hellofresh.com/global/en/job/7784779?gh_jid=7784779 — Canada — Hybrid — English
