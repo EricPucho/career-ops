@@ -422,3 +422,15 @@
 - **Connectivity Partner Program Manager** — GetYourGuide — Berlin — https://getyourguide.careers/jobs/7976582?gh_jid=7976582 — Germany — Hybrid — English
 - **Business Development Manager – Payments & POS** — SumUp — Manchester — https://sumup.com/careers/positions/7789384002?gh_jid=7789384002 — United Kingdom — Hybrid — English
 - **Senior Cost Performance Analyst** — HelloFresh — Toronto — https://careers.hellofresh.com/global/en/job/7784779?gh_jid=7784779 — Canada — Hybrid — English
+# Mon Jun 22 12:05:52 UTC 2026
+- Senior Software Engineer, Communications Platform (Backend focused) | GetYourGuide | Zurich | https://getyourguide.careers/jobs/8007215?gh_jid=8007215 | Switzerland | Hybrid | English
+- Senior Software Engineer, Localization Platform (Backend focused) | GetYourGuide | Zurich | https://getyourguide.careers/jobs/8007209?gh_jid=8007209 | Switzerland | Hybrid | English
+- Business Development Manager – Payments & POS | SumUp | Glasgow, Scotland | https://sumup.com/careers/positions/8592035002?gh_jid=8592035002 | United Kingdom | Hybrid | English
+- Senior Manager - Payments, Non-Payments & Enablement | SumUp | Santiago | https://sumup.com/careers/positions/8534577002?gh_jid=8534577002 | Chile | Hybrid | Spanish / English
+- Senior Software Engineer (Golang – Pricing Domain) | SumUp | Sofia | https://sumup.com/careers/positions/8602283002?gh_jid=8602283002 | Bulgaria | Hybrid | English
+- Accounts Payable Lead | HelloFresh | Manila | https://careers.hellofresh.com/global/en/job/8017666?gh_jid=8017666 | Philippines | On-site | English
+- Accounts Payable Specialist | HelloFresh | Manila | https://careers.hellofresh.com/global/en/job/8009233?gh_jid=8009233 | Philippines | On-site | English
+- Staff Software Engineer, Supply Chain Management Technology | HelloFresh | Saarbrücken | https://careers.hellofresh.com/global/en/job/7988614?gh_jid=7988614 | Germany | Hybrid | English
+- Principal Product Manager, Agentic Surfaces | Spotify | New York, NY | https://jobs.lever.co/spotify/a025cf69-f8c6-4873-9a8b-7ca6b1fbe9fd | United States | Hybrid | English
+- Alternance - Collaborateur Comptable | Qonto | Paris | https://jobs.lever.co/qonto/3856d52f-0ce4-43ab-94fe-bbbe8e53f199 | France | On-site | French
+- Head of Growth Performance | Qonto | Paris | https://jobs.lever.co/qonto/3dd03719-4888-473e-855a-e88be7e0eb9c | France | Hybrid | French / English
