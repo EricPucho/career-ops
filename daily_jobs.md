@@ -434,3 +434,83 @@
 - Principal Product Manager, Agentic Surfaces | Spotify | New York, NY | https://jobs.lever.co/spotify/a025cf69-f8c6-4873-9a8b-7ca6b1fbe9fd | United States | Hybrid | English
 - Alternance - Collaborateur Comptable | Qonto | Paris | https://jobs.lever.co/qonto/3856d52f-0ce4-43ab-94fe-bbbe8e53f199 | France | On-site | French
 - Head of Growth Performance | Qonto | Paris | https://jobs.lever.co/qonto/3dd03719-4888-473e-855a-e88be7e0eb9c | France | Hybrid | French / English
+# Thu Jul  2 08:13:04 UTC 2026
+- **Job title:** Android Engineer - Subscriptions
+  **Company:** N26
+  **Location:** Barcelona
+  **URL:** https://n26.com/en-eu/careers/positions/7989409?gh_jid=7989409
+  **Country:** Spain
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
+
+- **Job title:** IT Audit Manager
+  **Company:** N26
+  **Location:** Berlin
+  **URL:** https://n26.com/en-eu/careers/positions/7860988?gh_jid=7860988
+  **Country:** Germany
+  **Remote/hybrid/on-site:** Remote option available
+  **Language:** English
+
+- **Job title:** Senior Backend Engineer - Connectivity
+  **Company:** N26
+  **Location:** Berlin / Vienna / Barcelona
+  **URL:** https://n26.com/en-eu/careers/positions/7992597?gh_jid=7992597
+  **Country:** Germany / Austria / Spain
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Senior Software Engineer (Backend focused) - Supply
+  **Company:** GetYourGuide
+  **Location:** Berlin
+  **URL:** https://getyourguide.careers/jobs/6590828?gh_jid=6590828
+  **Country:** Germany
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Machine Learning Platform Engineer I
+  **Company:** Mollie
+  **Location:** Lisbon
+  **URL:** https://jobs.ashbyhq.com/mollie/ff439d94-cfb5-4523-8e99-a19edcb56ed6
+  **Country:** Portugal
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Senior iOS Engineer
+  **Company:** SumUp
+  **Location:** London
+  **URL:** https://sumup.com/careers/positions/8566473002?gh_jid=8566473002
+  **Country:** United Kingdom
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Accounts Payable Team Leader
+  **Company:** HelloFresh
+  **Location:** Manila
+  **URL:** https://careers.hellofresh.com/global/en/job/8025207?gh_jid=8025207
+  **Country:** Philippines
+  **Remote/hybrid/on-site:** On-site
+  **Language:** English
+
+- **Job title:** Mobile Staff Engineer, Platform/Infrastructure
+  **Company:** HelloFresh
+  **Location:** Warsaw
+  **URL:** https://careers.hellofresh.com/global/en/job/8028117?gh_jid=8028117
+  **Country:** Poland
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Android Engineer - Experience
+  **Company:** Spotify
+  **Location:** London
+  **URL:** https://jobs.lever.co/spotify/2193db3f-77c5-43b8-b030-8f92c9882bf1
+  **Country:** United Kingdom
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
+
+- **Job title:** Senior Product Engineer - Android/Kotlin
+  **Company:** Qonto
+  **Location:** Paris
+  **URL:** https://jobs.lever.co/qonto/522a932c-8009-4e1a-87b8-970b9d33066b
+  **Country:** France
+  **Remote/hybrid/on-site:** Hybrid
+  **Language:** English
