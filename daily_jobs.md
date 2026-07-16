@@ -514,3 +514,81 @@
   **Country:** France
   **Remote/hybrid/on-site:** Hybrid
   **Language:** English
+# Thu Jul 16 12:15:37 UTC 2026
+- Job title: Android Engineer
+- Company: SumUp
+- Location: Berlin
+- URL: https://sumup.com/careers/positions/8628481002?gh_jid=8628481002
+- Country: Germany
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: English
+
+---
+
+- Job title: Software Engineer - Global Expansion
+- Company: SumUp
+- Location: Berlin
+- URL: https://sumup.com/careers/positions/8518889002?gh_jid=8518889002
+- Country: Germany
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: English
+
+---
+
+- Job title: Platform Engineer II - Build
+- Company: Mollie
+- Location: Milan
+- URL: https://jobs.ashbyhq.com/mollie/c0981874-e98c-41cc-82be-8c6f13a478ba
+- Country: Italy
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: English
+
+---
+
+- Job title: Comptable - Alternance
+- Company: Qonto
+- Location: Paris
+- URL: https://jobs.lever.co/qonto/30ebfbf7-a6e1-475d-8b6d-86ba097bd66d
+- Country: France
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: French
+
+---
+
+- Job title: Android Engineer I - Subscriptions
+- Company: Spotify
+- Location: London
+- URL: https://jobs.lever.co/spotify/b4ad9572-e20f-4185-a284-99d9740d04f0
+- Country: United Kingdom
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: English
+
+---
+
+- Job title: iOS Engineer I - Subscriptions
+- Company: Spotify
+- Location: London
+- URL: https://jobs.lever.co/spotify/5089cbe3-5e62-4c24-89a2-9a1487eb5034
+- Country: United Kingdom
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: English
+
+---
+
+- Job title: Senior Partner Engineer - Hardware Partnerships
+- Company: Spotify
+- Location: Stockholm
+- URL: https://jobs.lever.co/spotify/2b2ae5a0-f040-4e9a-847c-157b9a41ee29
+- Country: Sweden
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: English
+
+---
+
+- Job title: Software Engineer - Financial Engineering
+- Company: Spotify
+- Location: Toronto
+- URL: https://jobs.lever.co/spotify/308d127c-e765-4895-9264-3765ddbfc620
+- Country: Canada
+- Remote/hybrid/on-site: Hybrid
+- Language requirement: English
